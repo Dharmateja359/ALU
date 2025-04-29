@@ -1,0 +1,20 @@
+# Ignore compiled simulation output
+*.vcd
+*.vvp
+*.out
+*.o
+
+# Ignore logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*~
+*.swp
+*.bak
