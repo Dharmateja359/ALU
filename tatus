@@ -1,0 +1,41 @@
+[33mcommit 30892f1f4296f1eca1a6417dfa82682f9fe3c95b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dharmateja <dharmatejagorakati@gmail.com>
+Date:   Wed Apr 30 17:34:12 2025 +0530
+
+    Update LICENSE
+
+[33mcommit e07316914b2f1e6e655f4edb881220707b113e95[m
+Author: Dharmateja <dharmatejagorakati@gmail.com>
+Date:   Wed Apr 30 17:32:56 2025 +0530
+
+    Update README.md
+
+[33mcommit ad633043c7282abb7d183676a62d837c82137fe5[m
+Author: Dharmateja359 <dharmatejagorakati@gmail.com>
+Date:   Wed Apr 30 17:27:28 2025 +0530
+
+    Updated alu_tb
+
+[33mcommit bba94913e0bd912babe7cec11841eb7db4bc86ea[m
+Author: Dharmateja359 <dharmatejagorakati@gmail.com>
+Date:   Wed Apr 30 17:23:45 2025 +0530
+
+    Added .gitignore and LICENSE files
+
+[33mcommit 4790083df9b7b1e80798f2ec30a9b5a69dc5cfab[m
+Author: Dharmateja359 <dharmatejagorakati@gmail.com>
+Date:   Wed Apr 30 00:16:16 2025 +0530
+
+    Added waveform image to README
+
+[33mcommit 96cf737b11d65ebb9b51ad9f23463d47b9bbc2c6[m[33m ([m[1;31morgin/main[m[33m, [m[1;31morgin/HEAD[m[33m)[m
+Author: Dharmateja359 <dharmatejagorakati@gmail.com>
+Date:   Tue Apr 29 23:53:52 2025 +0530
+
+    Added waveform screenshot
+
+[33mcommit df43a7b09153ced87f80b9f87b6b03767f8a52ec[m
+Author: Dharmateja359 <dharmatejagorakati@gmail.com>
+Date:   Tue Apr 29 23:15:13 2025 +0530
+
+    Initial commit of ALU project
