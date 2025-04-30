@@ -1,20 +1,24 @@
-# Ignore compiled simulation output
+# Simulation output
 *.vcd
-*.vvp
 *.out
-*.o
-
-# Ignore logs
+*.vvp
+*.sav
 *.log
+*.gtkw
+*.fst
 
-# VS Code settings
+# GTKWave save files
+*.gtkw
+
+# VSCode settings
 .vscode/
 
-# OS-specific files
+# OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Backup and temporary files
+# Backup files
 *~
-*.swp
 *.bak
+*.swp
