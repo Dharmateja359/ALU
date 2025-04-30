@@ -41,7 +41,5 @@ This project implements a simple **4-bit Arithmetic and Logic Unit (ALU)** in Ve
 ```bash
 iverilog -o alu_tb ALU_tb.v ALU.v
 vvp alu_tb
-#### 🔍 Waveform Output
 
-![Waveform Screenshot](waveform.png)
 
